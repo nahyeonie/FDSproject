@@ -4,7 +4,7 @@ html{
   margin: 0;
 }
 body{
-  background: url("images/cat.gif") no-repeat 100% 100% fixed ;
+  background: url("Images/cat.gif") no-repeat 100% 100% fixed ;
   background-size: auto;
   overflow: scroll;
 }
@@ -26,6 +26,7 @@ body{
   width: 70px;
   margin-bottom: 100px;
   margin-top: 50px;
+  margin-left: 100px;
 }
 .bold{
   font-family: 'Francois One', sans-serif;
@@ -35,7 +36,7 @@ body{
 }
 .u{
   position: relative;
-  width: 600px;
+  width: 550px;
   height: 50px;
 }
 .u::after{
@@ -65,4 +66,20 @@ body{
   font-size: 1.6em;
   line-height: 1.6em;
 
+}
+.work2{
+  margin-left: 200px;
+  width: 400px;
+}
+.age{
+  width: 100px;
+}
+.email{
+  width: 330px;
+}
+.school{
+  width: 330px;
+}
+.address{
+  width: 250px;
 }
