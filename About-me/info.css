@@ -4,7 +4,7 @@ html{
   margin: 0;
 }
 body{
-  background: url("cat.gif") no-repeat 100% 100% fixed ;
+  background: url("Images/cat.gif") no-repeat 100% 100% fixed ;
   background-size: auto;
   overflow: scroll;
 }
